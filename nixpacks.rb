@@ -5,8 +5,6 @@ class Nixpacks < Formula
     sha256 "acf0d965f7f41ce07e8df0afad981c8140a6c716eff0fc8d9cc1eb301683600b"
     version "0.0.25"
   
-    bottle :unneeded
-  
     def install
       bin.install "nixpacks"
     end
