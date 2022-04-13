@@ -1,9 +1,9 @@
 class Nixpacks < Formula
     desc " App source + Nix packages + Docker = Image "
     homepage "https://github.com/railwayapp/nixpacks"
-    url "https://github.com/railwayapp/automated-rust-release-example/releases/download/v0.0.25/automated-rust-release-example-v0.0.25-macos.tar.gz"
-    sha256 "acf0d965f7f41ce07e8df0afad981c8140a6c716eff0fc8d9cc1eb301683600b"
-    version "0.0.25"
+    url "https://github.com/railwayapp/automated-rust-release-example/releases/download/v0.0.26/automated-rust-release-example-v0.0.26-macos.tar.gz"
+    sha256 "b9b14eeffa146fba3db2b6acc8a724b0fc0d383c77105df1cf11a3fa3cb8f025"
+    version "0.0.26"
   
     def install
       bin.install "nixpacks"
