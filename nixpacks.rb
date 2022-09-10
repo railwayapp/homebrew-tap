@@ -1,9 +1,9 @@
 class Nixpacks < Formula
     desc "App source + Nix packages + Docker = Image"
     homepage "https://github.com/railwayapp/nixpacks"
-    url "https://github.com/railwayapp/nixpacks/releases/latest/download/nixpacks-v0.5.0-x86_64-apple-darwin.tar.gz"
-    sha256 "712a08f36562aed44c15ffae2827342cbd1e136fa465e7b97744a4bd173b1928"
-    version "0.5.0"
+    url "https://github.com/railwayapp/nixpacks/releases/latest/download/nixpacks-v0.5.1-x86_64-apple-darwin.tar.gz"
+    sha256 "13e6f998c4c316a9d8512a381fb61a82d99db3ea6ee3f40a17c32a0e2a437b0b"
+    version "0.5.1"
   
     def install
       bin.install "nixpacks"
