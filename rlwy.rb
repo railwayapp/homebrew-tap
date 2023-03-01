@@ -1,4 +1,4 @@
-class Railway < Formula
+class Rlwy < Formula
     desc "Develop and deploy code with zero configuration"
     homepage "https://railway.app/"
     url "https://github.com/railwayapp/cliv3/releases/latest/download/rlwy-v0.0.11-x86_64-apple-darwin.tar.gz"
