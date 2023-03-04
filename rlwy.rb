@@ -1,4 +1,4 @@
-class railway < Formula
+class Rlwy < Formula
   desc "Develop and deploy code with zero configuration"
   homepage "https://railway.app"
   version "3.0.0"
